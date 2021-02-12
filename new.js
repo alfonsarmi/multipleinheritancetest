@@ -5,6 +5,7 @@ class Car0 {
   present0() {
     return 'I have 1 ' + this.carname;
   }
+//test
 }
 
 class Car1 extends Car0{
